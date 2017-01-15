@@ -1,6 +1,6 @@
-## mqtt_switch Arduino based esp8266 for controlling Energenie sockets ##
+## mqttswitch-esp8266-energenie - Arduino based firmware for esp8266 for controlling Energenie sockets via MQTT ##
 
-Firmware for an ESP-12 that uses an Energenie Pi-mote to control Energenie sockets based on MQTT messages. Written with Arduino.
+Firmware for an ESP-12 that uses an Energenie Pi-mote board to control Energenie sockets based on MQTT messages. Written with Arduino.
 
 Compatible with [homebridge-mqttswitch](https://github.com/ilcato/homebridge-mqttswitch)
 
